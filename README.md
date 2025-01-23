@@ -167,7 +167,7 @@ Ref Video: -
       </td>
       <td width="175" align="center">
         <a href="mailto:tigger009@ajou.ac.kr">
-          <img src="https://img.shields.io/badge/JUn001209-655ced?style=social&logo=gmail"/>
+          <img src="https://img.shields.io/badge/Jun001209-655ced?style=social&logo=gmail"/>
         </a>
       </td>
     </tr>
